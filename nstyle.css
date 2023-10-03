@@ -1,0 +1,7 @@
+.linha{
+    display: inline-block;
+ border-color: black;
+ border-style: double;
+font-size: 3em;
+}
+
